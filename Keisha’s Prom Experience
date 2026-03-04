@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My PROM 2026 Experience</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(to bottom, #f3e7ff, #ffffff);
+            text-align: center;
+        }
+
+        h1 {
+            color: #6a0dad;
+        }
+
+        h2 {
+            color: #8e44ad;
+            margin-top: 40px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        img {
+            width: 90%;
+            max-width: 300px;
+            border-radius: 15px;
+            margin-top: 15px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .music-box {
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+            margin-top: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>My PROM 2026 Experience</h1>
+
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>
+            PROM 2026 was one of the most unforgettable nights of my life. 
+            From getting ready to dancing under the lights, everything felt magical.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>About Us</h2>
+        <p>
+            My friends and I dressed up beautifully and shared laughter, photos, 
+            and memories that I will always treasure. It was a night full of joy and love.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Insert Images</h2>
+
+        <img src="prom1.jpg" alt="Prom picture 1">
+        <p>Photoshoot before getting into the venue.</p>
+
+        <img src="prom2.jpg" alt="Prom picture 2">
+        <p>Me with our dazzling section & beautiful adviser.</p>
+
+    </div>
+
+    <div class="section">
+        <h2>Favorite Music</h2>
+
+        <div class="music-box">
+            <p>🎵 Disney Songs</p>
+            <p>🎵 Love Wins All – IU</p>
+        </div>
+
+        <p>
+            These songs made the night even more special and emotional.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Conclusion</h2>
+        <p>
+            PROM 2026 will always remain a beautiful memory in my heart. 
+            It reminded me how important friendship and shared moments truly are.
+        </p>
+    </div>
+
+</body>
+</html>
